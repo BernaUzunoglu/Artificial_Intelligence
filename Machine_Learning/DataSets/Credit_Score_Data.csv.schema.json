@@ -1,0 +1,147 @@
+{
+  "fields": [
+    {
+      "name": "ID",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Customer_ID",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Month",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Age",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "SSN",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Occupation",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Annual_Income",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Monthly_Inhand_Salary",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Num_Bank_Accounts",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Num_Credit_Card",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Interest_Rate",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Num_of_Loan",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Type_of_Loan",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Delay_from_due_date",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Num_of_Delayed_Payment",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Changed_Credit_Limit",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Num_Credit_Inquiries",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Credit_Mix",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Outstanding_Debt",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Credit_Utilization_Ratio",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Credit_History_Age",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Payment_of_Min_Amount",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Total_EMI_per_month",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Amount_invested_monthly",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Payment_Behaviour",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Monthly_Balance",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Credit_Score",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
