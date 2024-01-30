@@ -1,3 +1,8 @@
 - Credit Score Classification - Kredi Planı Sınıflandırması
   Bankalar ve kredi kartı şirketleri, kredi itibarınızı belirlemek için kredi puanınızı hesaplar.Kredi durumu iyi olan müşterilere
 anında kredi vermekte yardımcı olurlar. Banakadaki müşterilerin kredi geçmişlerini sınıflandıracağız.
+
+- Future Sales Prediction - Gelecekteki Satış Tahminleri
+  Veri seti, işletmenin çeşitli reklam platformlarında maruz kaldığı reklam maliyetiyle ilgilidir.
+  Bu projede, bir ürünün gelecekteki satışlarını tahmin etmek için makine öğrenimi modelini bu şekilde kullndık. Bir ürünün gelecekteki 
+  satışlarını tahmin etmek, işletmenin ürünün üretim ve reklam maliyetini yönetmesine yardımcı olur.
