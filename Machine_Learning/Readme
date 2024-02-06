@@ -12,3 +12,9 @@ anında kredi vermekte yardımcı olurlar. Banakadaki müşterilerin kredi geçm
     görevidir. Hava durumu verileri ve algoritmaların kullanımıyla gelecek n sayıda gün için hava koşullarını tahmin etmek 
     mümkündür. Yapılan bu çalışmada eldeki geçmiş verilere göre Facebook Prophet modeli ile 365 kadar gün için hava durumu tahmini 
     yapılmıştır.
+
+  -Waiter Tips Prediction - Garson Bahşiş Tahmini
+    Garsonlara verilen bahşişlerin bir çok etkene bağlıdır. Restoranaın türü,kişi sayısı, ne kadar hesap ödediğiniz vs.
+    Gerçekleştirdiğimiz projede cinsiyet,sigara kullanımı, gün, öğle veya akşam yemeği, ödenen hesap tutarına ve kişi sayısına göre 
+    garsona bahşiş verme tahmini gerçekleştirdik. Featurelar yani özellikler(girdiler) veriler değerlerine ile hedef değer arasında
+    liner doğrusal veriler elde edilmiştir.
